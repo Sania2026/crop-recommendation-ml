@@ -93,5 +93,5 @@ Add real-time weather data API
 
 Deploy using Render or Railway for live access
 
-Enhance frontend with Bootstrap or minimal UI framework
+
 
